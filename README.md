@@ -9,6 +9,11 @@ https://glyphsapp.com/tutorials/roll-your-own-glyph-data
 And discuss here:
 https://forum.glyphsapp.com/t/view-anchors-in-preview/
 
+More useful info:
+* https://www.unicode.org/charts/PDF/U11D00.pdf
+* https://twitter.com/v21/status/799721322536439808
+* https://www.omniglot.com/writing/gondi.htm
+
 ### License
 
 Copyright 2019 Rainer Erich Scheichelbauer (@mekkablue).
